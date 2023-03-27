@@ -70,3 +70,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+URP Workshop Shadergraph/UserSettings/EditorUserSettings.asset
+URP Workshop Shadergraph/UserSettings/Layouts/default-2021.dwlt
+
+# Should be default but template is bad
+Library/
+Temp/
+Logs/
+*.obj
+UserSettings/
+.vs
